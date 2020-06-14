@@ -1,4 +1,4 @@
-# php_oop_curd
+# php oop curd
 
 A simple PHP Class for using with MySQL create, read, update and delete functions. 
 
